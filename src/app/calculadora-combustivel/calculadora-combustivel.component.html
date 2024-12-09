@@ -1,0 +1,17 @@
+<!-- <p>calculadora-combustivel works!</p> -->
+
+<div>
+    <label>Preço do Alcool (R$): </label>
+    <input type="number" id="precoAlcool"[(ngModel)]="precoAlcool" />
+</div>
+
+
+<div>
+    <label>Preço do Gasolina (R$): </label>
+    <input type="number" id="precoGasolina"[(ngModel)]="precoGasolina" />
+</div>
+
+<button (click)="calcular()">Calculadora</button>
+<div *ngIf="mensagem">
+    <h2>{{ mensagem }}</h2>
+</div>
