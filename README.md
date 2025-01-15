@@ -1,27 +1,17 @@
-# Calculadora
+# Descrição do Projeto:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+Este é um projeto web desenvolvido com TypeScript, HTML, CSS e Angular, que tem como objetivo calcular e comparar o custo-benefício entre o uso de gasolina e álcool (etanol) em veículos. O usuário pode inserir os valores de preço de ambos os combustíveis e o programa irá calcular e exibir qual é a opção mais vantajosa.
 
-## Development server
+## Funcionalidades principais:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+*Entrada de dados para os preços da gasolina e do álcool.
+*Cálculo automático da relação entre os preços dos combustíveis.
+*Exibição de uma mensagem clara e objetiva indicando qual combustível é mais vantajoso.
+*Interface responsiva e simples, com uma tabela mostrando o resultado da comparação.
 
-## Code scaffolding
+## Tecnologias usadas:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+*TypeScript para o desenvolvimento da lógica de cálculo.
+*HTML para a estruturação da página.
+*CSS para o design e estilização da interface.
+*Angular para a criação do framework interativo da aplicação.
