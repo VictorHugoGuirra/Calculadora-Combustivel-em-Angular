@@ -4,14 +4,14 @@ Este é um projeto web desenvolvido com TypeScript, HTML, CSS e Angular, que tem
 
 ## Funcionalidades principais:
 
-*Entrada de dados para os preços da gasolina e do álcool.
-*Cálculo automático da relação entre os preços dos combustíveis.
-*Exibição de uma mensagem clara e objetiva indicando qual combustível é mais vantajoso.
-*Interface responsiva e simples, com uma tabela mostrando o resultado da comparação.
+<li>Entrada de dados para os preços da gasolina e do álcool.</li>
+<li>Cálculo automático da relação entre os preços dos combustíveis.</li>
+<li>Exibição de uma mensagem clara e objetiva indicando qual combustível é mais vantajoso.</li>
+<li>Interface responsiva e simples, com uma tabela mostrando o resultado da comparação.</li>
 
 ## Tecnologias usadas:
 
-*TypeScript para o desenvolvimento da lógica de cálculo.
-*HTML para a estruturação da página.
-*CSS para o design e estilização da interface.
-*Angular para a criação do framework interativo da aplicação.
+<li>TypeScript para o desenvolvimento da lógica de cálculo.</li>
+<li>HTML para a estruturação da página.</li>
+<li>CSS para o design e estilização da interface.</li>
+<li>Angular para a criação do framework interativo da aplicação.</li>
